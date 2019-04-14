@@ -1,0 +1,50 @@
+{
+  "name": "decode",
+  "version": "0.8.1",
+  "author": {
+    "name": "Scott Smith",
+    "email": "mail@ScottHSmith.com",
+    "url": "https://ScottHSmith.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "ghost": "^1.0.0"
+  },
+  "gpm": {
+    "type": "theme",
+    "categories": [
+      "Minimal",
+      "Personal Blogs"
+    ]
+  },
+  "demo": "https://decode-ghost-demo.scotthsmith.com/",
+  "homepage": "https://ScottHSmith.com/projects/decode-archive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottSmith95/Decode-for-Ghost.git"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "css-mqpacker": "^6.0.1",
+    "cssnano": "^3.7.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "postcss-custom-properties": "^6.2.0",
+    "postcss-import": "^11.0.0",
+    "postcss-nested": "^2.1.2",
+    "postcss-normalize": "^4.0.0",
+    "postcss-pseudoelements": "^5.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 2.5%",
+    "Firefox ESR"
+  ],
+  "config": {
+    "posts_per_page": 10
+  }
+}
