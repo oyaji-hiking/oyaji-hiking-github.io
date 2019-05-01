@@ -4,7 +4,6 @@
 
 layout: default
 #layout: blog 
-title: {{ site.name }}
 ---
 
 <div id="home">
