@@ -4,7 +4,7 @@ title: Mt. Tonodake - straight up, and down.
 date: '2019-05-08 12:11:00'
 ---
 
-Details of how to get to and from Mt Tonodake are shown in earlier post [here](https://oyaji-hiking.saigos.space/tonodake-nabewariyama/) 
+Details of how to get to and from Mt Tonodake are shown in earlier post [here](https://oyaji-hiking.github.io/2019/02/24/tonodake-nabewariyama.html) 
 
 This hike was a straight forward hike from the Okura bus stop starting point, to the Tonodake peak, and back down the same way, approx 14km in total.
 

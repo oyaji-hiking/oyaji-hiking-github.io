@@ -5,7 +5,7 @@ date: '2019-01-19 02:00:27'
 ---
 
 
-This hike is a repeat of a hike exactly a year ago, for full details of the route etc., see the post [here](https://oyaji-hiking.saigos.space/ikusabata-mitake/)
+This hike is a repeat of a hike exactly a year ago, for full details of the route etc., see the post [here](https://oyaji-hiking.github.io/2018/01/14/ikusabata-mitake.html)
 
 This post is photos, only as follows :
 

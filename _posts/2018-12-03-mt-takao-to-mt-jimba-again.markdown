@@ -4,7 +4,7 @@ title: Mt Takao to Mt Jimba - Again
 date: '2018-12-03 09:04:00'
 ---
 
-A repeat hike, see earlier [post](https://oyaji-hiking.saigos.space/mt-takao-to-mt-jimba/) for full details. This post has photos only.
+A repeat hike, see earlier [post](https://oyaji-hiking.github.io/2018/03/17/mt-takao-to-mt-jimba.html) for full details. This post has photos only.
 
 ![IMG_1377](/content/images/2018/12/IMG_1377.jpg)
 

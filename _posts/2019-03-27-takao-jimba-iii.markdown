@@ -4,8 +4,8 @@ title: Mt Takao to Mt Jimba, once more
 date: '2019-03-27 12:39:30'
 ---
 
-Full details of this hike can be found at earlier post, [here](https://oyaji-hiking.saigos.space/mt-takao-to-mt-jimba/)
-...and photos of the same hike in winter time ( December ) can be found [here](https://oyaji-hiking.saigos.space/mt-takao-to-mt-jimba-again/)
+Full details of this hike can be found at earlier post, [here](https://oyaji-hiking.github.io/2018/03/17/mt-takao-to-mt-jimba.html)
+...and photos of the same hike in winter time ( December ) can be found [here](https://oyaji-hiking.github.io/2018/12/03/mt-takao-to-mt-jimba-again.html)
 
 This post is again photos only as follows, for the hike that took place on Sunday 24th March
 

@@ -12,7 +12,7 @@ date: '2018-06-02 23:10:23'
 
 **Getting There**
 
-See previous hike post which has a similar starting point [here](https://oyaji-hiking.saigos.space/minoge-to-okura-via-mt-sa/)
+See previous hike post which has a similar starting point [here](https://oyaji-hiking.github.io/2018/02/12/minoge-to-okura-via-mt-sa.html)
 
 It is possible to take a taxi from Hadano station all the way to the spring water fountain near the start of the trail, but this will cost approx 5000yen. Otherwise take the bus from the station as noted in the previous post linked to just above, either to Minoge and take the longer hike to the trail head, or to the bus stop at Yabitsu pass and walk from there.
 

@@ -13,7 +13,7 @@ date: '2018-09-09 10:50:35'
 **Getting There**
 From Tokyo take Keio line train from Shinjuku to Takaosanguchi station, change trains at Kitano.
 
-The first part of this hike is the same as the first sections of an earlier hike posted, [see here](https://oyaji-hiking.saigos.space/mt-takao-to-mt-jimba/). From Takaosanguchi train station head for the top of Takao, and from there to Kobotoke-Shiroyama.
+The first part of this hike is the same as the first sections of an earlier hike posted, [see here](https://oyaji-hiking.github.io/2018/03/17/mt-takao-to-mt-jimba.html). From Takaosanguchi train station head for the top of Takao, and from there to Kobotoke-Shiroyama.
 
 Typical tree root lined trail on Takao.
 ![IMG_1006-1](/content/images/2018/09/IMG_1006-1.JPG)

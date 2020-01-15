@@ -76,7 +76,7 @@ At the top of Mt Oyama :
 
 ![IMG_0857](/content/images/2018/07/IMG_0857.JPG)
 
-From the top, head back a short way down the same path just taken, and follow a sign for "Yabitsutouge", this runs for a few kilometres and leads to Yabistu pass. From Yabitsu pass, the hike follows the same route as described in previous post [here](https://oyaji-hiking.saigos.space/minoge-to-okura-via-mt-sa/) eventually arriving at Okura center, and the bus back to Shibusawa train station, for a train back to Tokyo center. 
+From the top, head back a short way down the same path just taken, and follow a sign for "Yabitsutouge", this runs for a few kilometres and leads to Yabistu pass. From Yabitsu pass, the hike follows the same route as described in previous post [here](https://oyaji-hiking.github.io/2018/02/12/minoge-to-okura-via-mt-sa.html) eventually arriving at Okura center, and the bus back to Shibusawa train station, for a train back to Tokyo center. 
 
 ..but not before enjoying the wonderful soba and beer at a nearby restaurant :
 
