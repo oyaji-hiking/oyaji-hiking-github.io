@@ -1,0 +1,16 @@
+# ssh to ghost blog vm
+ssh root saigos space
+pass = sp.....
+# Tar content folder 
+cd /var/www/ghost2; tar -cvf content.tar ./content
+
+# Copy Ghosts content folder to vm holding local copy of Jekyll blog
+
+[saigo@github-jekyll-host Blog]$ scp root saigos space:/var/www/ghost2/content.tar .
+
+# Copy the ghost database to jekyll local repo
+Go to oyaji-hiking.saigos.space/admin -> lab and Export ghost json backup file to local vm with jekyll repo
+Follow the Usage instructions here - https://github.com/eloyesp/jekyll_ghost_importer
+
+# Test the local repo, with "bundle exec jekyll serve" and check site at http://localhost:4000
+# IF ok, then do "git add .", "git commit", and "git push" - username 'oyaji-hiking' / pass - 'safe'
