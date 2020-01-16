@@ -16,7 +16,6 @@
 title: Oyaji Hiking
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
- Oyaji Hiking in Japan
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://oyaji-hiking.github.io" # the base hostname & protocol for your site, e.g. http://example.com
